@@ -1,0 +1,22 @@
+{
+  "wheel_id": 390,
+  "structure": "umbrella",
+  "slug": "searchengineoptimisationbrisbane-com-105",
+  "project": "seo-services-brisbane-signs-you-need-a3716411eeb2cd944b23d15fa9",
+  "parent_t1_ref": "searchengineoptimisationbrisbane-com-152",
+  "node_role": "feeder",
+  "money_target": "searchengineoptimisationbrisbane.com.au",
+  "primary_kw": "seo services brisbane signs you need",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-brisbane-signs-you-need-a3716411eeb2cd944b23d15fa9/",
+  "tier": "T2",
+  "writeback_nonce": "b735ac06e544d088",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-questions-to-ask-21d122231281c5a756f6a3c0/",
+      "anchor": "this seo services brisbane questions to ask guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
